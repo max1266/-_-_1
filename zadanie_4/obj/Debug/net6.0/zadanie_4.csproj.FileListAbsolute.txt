@@ -1,0 +1,15 @@
+C:\Users\AMM\Desktop\обучение шмидт\Домашка c#\zadanie_4\obj\Debug\net6.0\zadanie_4.csproj.AssemblyReference.cache
+C:\Users\AMM\Desktop\обучение шмидт\Домашка c#\zadanie_4\obj\Debug\net6.0\zadanie_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMM\Desktop\обучение шмидт\Домашка c#\zadanie_4\obj\Debug\net6.0\zadanie_4.AssemblyInfoInputs.cache
+C:\Users\AMM\Desktop\обучение шмидт\Домашка c#\zadanie_4\obj\Debug\net6.0\zadanie_4.AssemblyInfo.cs
+C:\Users\AMM\Desktop\обучение шмидт\Домашка c#\zadanie_4\obj\Debug\net6.0\zadanie_4.csproj.CoreCompileInputs.cache
+C:\Users\AMM\Desktop\обучение шмидт\Домашка c#\zadanie_4\bin\Debug\net6.0\zadanie_4.exe
+C:\Users\AMM\Desktop\обучение шмидт\Домашка c#\zadanie_4\bin\Debug\net6.0\zadanie_4.deps.json
+C:\Users\AMM\Desktop\обучение шмидт\Домашка c#\zadanie_4\bin\Debug\net6.0\zadanie_4.runtimeconfig.json
+C:\Users\AMM\Desktop\обучение шмидт\Домашка c#\zadanie_4\bin\Debug\net6.0\zadanie_4.dll
+C:\Users\AMM\Desktop\обучение шмидт\Домашка c#\zadanie_4\bin\Debug\net6.0\zadanie_4.pdb
+C:\Users\AMM\Desktop\обучение шмидт\Домашка c#\zadanie_4\obj\Debug\net6.0\zadanie_4.dll
+C:\Users\AMM\Desktop\обучение шмидт\Домашка c#\zadanie_4\obj\Debug\net6.0\refint\zadanie_4.dll
+C:\Users\AMM\Desktop\обучение шмидт\Домашка c#\zadanie_4\obj\Debug\net6.0\zadanie_4.pdb
+C:\Users\AMM\Desktop\обучение шмидт\Домашка c#\zadanie_4\obj\Debug\net6.0\zadanie_4.genruntimeconfig.cache
+C:\Users\AMM\Desktop\обучение шмидт\Домашка c#\zadanie_4\obj\Debug\net6.0\ref\zadanie_4.dll
